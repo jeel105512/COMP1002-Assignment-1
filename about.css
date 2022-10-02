@@ -91,13 +91,13 @@ nav a:hover{
     border-radius: 10px;
 }
 .card-image-1{
-    background-image: url(images/gaming.avif);
+    background-image: url(gaming.avif);
 }
 .card-image-2{
-    background-image: url(images/football.avif);
+    background-image: url(football.avif);
 }
 .card-image-3{
-    background-image: url(images/coding.avif);
+    background-image: url(coding.avif);
 }
 .card-info{
     flex: 2;
